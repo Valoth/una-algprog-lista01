@@ -1,0 +1,31 @@
+EXERCÍCIO – Algoritmo de Navegação
+
+Objetivo: Sair da localização atual e chegar à Estação de Metrô Novo
+Eldorado a tempo da aula, tomando decisões adequadas durante o trajeto.
+
+Regras: - Se a distância até a estação for menor que 1 km, o
+deslocamento deve ser feito a pé. - Caso esteja chovendo, deve-se
+utilizar um transporte por aplicativo. - O algoritmo só termina após
+atravessar a catraca da estação.
+
+Passo a passo (Algoritmo):
+
+1.  Verificar a localização atual.
+2.  Abrir o aplicativo de mapas ou navegação.
+3.  Pesquisar o destino “Estação de Metrô Novo Eldorado”.
+4.  Verificar a distância até o destino.
+5.  Observar as condições climáticas:
+    -   Se estiver chovendo, solicitar transporte por aplicativo.
+    -   Caso não esteja chovendo, continuar a análise da distância.
+6.  Se a distância for menor que 1 km, iniciar o trajeto a pé.
+7.  Caso a distância seja maior que 1 km e não esteja chovendo, escolher
+    entre transporte público ou aplicativo.
+8.  Seguir o trajeto indicado pelo aplicativo de navegação.
+9.  Acompanhar o percurso até chegar à entrada da estação.
+10. Entrar na Estação de Metrô Novo Eldorado.
+11. Validar o acesso passando pela catraca.
+12. Encerrar o algoritmo após atravessar a catraca.
+
+Resultado: O usuário chega corretamente à estação de metrô dentro das
+regras definidas, finalizando o processo ao acessar a área interna da
+estação.
