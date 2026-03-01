@@ -3,9 +3,9 @@ EXERCÍCIO – Logística de E-commerce
 Objetivo: Realizar a compra do iPhone 17 na Amazon garantindo que o
 processo seja seguro, econômico e concluído com sucesso.
 
-Regras: - Verificar se o vendedor é “Amazon” ou “Loja Oficial Apple”. -
-Validar o saldo disponível no cartão antes de confirmar a compra. - Caso
-o frete seja gratuito, selecioná-lo; caso contrário, avaliar o prazo de
+Regras: - Verificar se o vendedor é “Amazon” ou “Loja Oficial Apple”.
+-Validar o saldo disponível no cartão antes de confirmar a compra.
+- Caso o frete seja gratuito, selecioná-lo; caso contrário, avaliar o prazo de
 entrega.
 
 Passo a passo (Algoritmo):
