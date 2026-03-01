@@ -3,7 +3,8 @@ EXERCÍCIO – Travessia do Rio
 Objetivo: Ajudar o fazendeiro a atravessar o rio levando o lobo, a cabra
 e o maço de couve sem que nenhum deles seja comido durante o processo.
 
-Regras: - O barco comporta apenas o fazendeiro e mais um item por vez.
+Regras:
+- O barco comporta apenas o fazendeiro e mais um item por vez.
 - O lobo não pode ficar sozinho com a cabra.
 - A cabra não pode ficar sozinha com a couve.
 
